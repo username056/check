@@ -17,6 +17,6 @@ Include some badges such as build status, test coverage, etc.
 * Feature 3
 ---
 ### Installation
-> git clone https://github.com/username/projectname.git
-> cd projectname 
+> git clone http<hi>s://github.com/username/projectname.git <br>
+> cd projectname <br>
 > pip install requirements.txt
